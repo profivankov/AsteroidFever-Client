@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/asteroidfever/static/css/main.b9ddb079.css",
-    "main.js": "/asteroidfever/static/js/main.f1abbb2c.js",
-    "index.html": "/asteroidfever/index.html",
-    "main.b9ddb079.css.map": "/asteroidfever/static/css/main.b9ddb079.css.map",
-    "main.f1abbb2c.js.map": "/asteroidfever/static/js/main.f1abbb2c.js.map"
+    "main.css": "/AsteroidFever-Client/static/css/main.b9ddb079.css",
+    "main.js": "/AsteroidFever-Client/static/js/main.f1abbb2c.js",
+    "index.html": "/AsteroidFever-Client/index.html",
+    "main.b9ddb079.css.map": "/AsteroidFever-Client/static/css/main.b9ddb079.css.map",
+    "main.f1abbb2c.js.map": "/AsteroidFever-Client/static/js/main.f1abbb2c.js.map"
   },
   "entrypoints": [
     "static/css/main.b9ddb079.css",
