@@ -2,7 +2,7 @@
   "name": "asteroid-impact-spa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://profivankov.github.io/asteroidfever",
+  "homepage": "https://profivankov.github.io/asteroidfever",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
